@@ -1,5 +1,5 @@
 body {
-  background-color: #efefef;
+  background-color: #fff;
 }
 header {
   margin-top: 20px;
@@ -20,9 +20,6 @@ header {
 .logo {
   font-size: 32px;
   text-align: center;
-}
-.text-sub {
-  color: #777;
 }
 .header-navigation {
   width: 100%;
@@ -71,14 +68,7 @@ header {
   width: 300px;
   float: left;
 }
-.information-list {
-  list-style-type: none;
-  padding-left: 0;
-}
 
-.information-list li {
-  margin-bottom: 10px;
-}
 .new-blog-list-area {
   list-style-type: none;
   padding-left: 0;
@@ -152,6 +142,9 @@ header {
 .blog-body {
   text-align: left;
   font-size: 12px;
+}
+.copyright {
+  text-align: center;
 }
 .main:after {
   clear: both;
