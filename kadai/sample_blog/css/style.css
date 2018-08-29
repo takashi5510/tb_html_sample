@@ -1,0 +1,160 @@
+body {
+  background-color: #efefef;
+}
+header {
+  margin-top: 20px;
+}
+.main {
+  background-color: #fff;
+}
+.container {
+  width: 920px;
+  margin: 0 auto 40px auto;
+}
+
+.header-title-area {
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+
+.logo {
+  font-size: 32px;
+  text-align: center;
+}
+.text-sub {
+  color: #777;
+}
+.header-navigation {
+  width: 100%;
+  background-color: #222222;
+  padding: 20px 0;
+}
+
+.header-navigation:after {
+  clear: both;
+  display: block;
+  content: " ";
+}
+
+.header-navigation li {
+  float: left;
+  padding: 0 30px;
+  text-align: center;
+  list-style-type: none;
+}
+
+.header-navigation li a {
+  color: #fff;
+  text-decoration: none;
+}
+.text-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
+.card-contents {
+  padding: 40px;
+  display: block;
+  margin-bottom: 20px;
+} 
+.left-contents {
+  background-color: #fff;
+  width: 600px;
+  margin-right: 20px;
+  float: left;
+}
+
+.right-contents {
+  background-color: #fff;
+  width: 300px;
+  float: left;
+}
+.information-list {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.information-list li {
+  margin-bottom: 10px;
+}
+.new-blog-list-area {
+  list-style-type: none;
+  padding-left: 0;
+}
+.new-blog-list-area li {
+  margin-bottom: 5px;
+}
+.blog-list-area:after {
+  clear: both;
+  display: block;
+  content: " ";
+}
+.blog-list {
+  width: 510px;
+  margin-right: 10px;
+}
+.blog-list:after {
+  clear: both;
+  display: block;
+  content: " ";
+}
+.blog-list:last-child {
+  margin-right: 0;
+}
+.new-blog-image-area {
+  float: left;
+}
+.new-blog-image {
+  margin-bottom: 5px;
+  width: 50px;
+  height: 50px;
+  display: block;
+}
+.new-blog-area {
+  float: left;
+  padding-left: 5px;
+}
+.new-blog-date {
+  font-size: 11px;
+  margin-bottom: 5px;
+}
+.new-blog-area {
+  text-decoration: none;
+  font-size: 12px;
+ }
+.blog-image-area {
+  float: left;
+}
+.blog-image {
+  margin-bottom: 10px;
+  width: 150px;
+  height: 150px;
+  display: block;
+}
+.blog-area {
+  float: left;
+  width: 350px;
+  height: 150px;
+  padding-left: 10px;
+  margin-bottom: 10px;
+}
+.blog-area a {
+  text-decoration: none;
+  font-size: 20px;
+}
+.blog-date {
+  text-align: left;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+.blog-body {
+  text-align: left;
+  font-size: 12px;
+}
+.main:after {
+  clear: both;
+  display: block;
+  content: " ";
+}
